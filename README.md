@@ -24,7 +24,7 @@ This project, inspired by a course on Udemy taught by Kirill Eremenko, aims to o
 
 *Calculated idle capacity using Tableau table calculations.
 
-This new dataset is availbale in "P11-Coal-Terminal copy.xlsx" Excel file.
+This new dataset is available in "P11-Coal-Terminal copy.xlsx" Excel file.
 
 ## Visualization and Analysis:
 
