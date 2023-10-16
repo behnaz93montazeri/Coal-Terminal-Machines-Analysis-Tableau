@@ -28,9 +28,12 @@ This project, inspired by a course on Udemy taught by Kirill Eremenko, aims to o
 *An 8-hour moving average was applied to analyze machine performance.
 *Trendlines with p-values were used to identify maintenance needs.
 
-Machine-Specific Insights:
+## Machine-Specific Insights:
 
 *RL1 machine requires maintenance due to significant spikes in performance.
 *RL2 and SR1 machines do not require immediate maintenance. However, the prediction cannot be accurate for the SR1 machine, since the p-value is above 0.05
 *SR4A machine, although not needing maintenance this month, is likely to require maintenance in the coming month based on the trendline.
 *SR6 machine exhibits a similar spike as RL2, possibly due to alternating machine operation.
+<img width="999" alt="Screenshot 2023-10-09 at 1 28 44 PM" src="https://github.com/behnaz93montazeri/Coal-Terminal-Machines-Analysis-Tableau/assets/124638983/1c052eb5-f662-468c-ae63-67a9644e7ba4">
+
+
