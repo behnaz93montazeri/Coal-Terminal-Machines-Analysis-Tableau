@@ -17,9 +17,14 @@ This project, inspired by a course on Udemy taught by Kirill Eremenko, aims to o
 ## Challenges with the Dataset:
 
 *Multiple sheets with data for different machines and varying dates.
+
 *A solution involved creating a reference sheet with all dates for the specific month being analyzed.
+
 *Utilized left joins to join all data sheets to the reference sheet.
+
 *Calculated idle capacity using Tableau table calculations.
+
+This new dataset is availbale in "P11-Coal-Terminal copy.xlsx" Excel file.
 
 ## Visualization and Analysis:
 
